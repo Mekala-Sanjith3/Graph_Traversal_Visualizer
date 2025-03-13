@@ -15,3 +15,19 @@ A Java-based interactive graph traversal visualizer that supports **BFS**, **DFS
   - Visualize the traversal path or MST in real-time.
 - **User-Friendly Interface**:
   - Intuitive controls for adding nodes, edges, and running algorithms.
+
+
+Technologies Used
+Java: Core programming language.
+
+Java Swing: For the graphical user interface.
+
+Graph Algorithms:
+
+BFS, DFS, Dijkstra, Kruskal.
+
+
+Author
+Mekala Maria Sanjith Reddy
+Email: 2300031810cseh@gmail.com
+LinkedIn: www.linkedin.com/in/mekala-maria-sanjith-reddy-625239330
