@@ -30,6 +30,6 @@ BFS, DFS, Dijkstra, Kruskal.
 Author
 Mekala Maria Sanjith Reddy
 
-Email: 2300031810cseh@gmail.com
+Email: 2300031810cseh1@gmail.com
 
-LinkedIn: www.linkedin.com/in/mekala-maria-sanjith-reddy-625239330
+LinkedIn: www.linkedin.com/in/mekala-sanjith
